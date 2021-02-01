@@ -1,0 +1,10 @@
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\bin\Debug\11 DateTime picker kontrola.exe.config
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\bin\Debug\11 DateTime picker kontrola.exe
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\bin\Debug\11 DateTime picker kontrola.pdb
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\obj\Debug\11 DateTime picker kontrola.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\obj\Debug\_11_DateTime_picker_kontrola.Form1.resources
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\obj\Debug\_11_DateTime_picker_kontrola.Properties.Resources.resources
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\obj\Debug\11 DateTime picker kontrola.csproj.GenerateResource.cache
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\obj\Debug\11 DateTime picker kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\obj\Debug\11 DateTime picker kontrola.exe
+C:\Users\Mato\source\repos\11 DateTime picker kontrola\11 DateTime picker kontrola\obj\Debug\11 DateTime picker kontrola.pdb
